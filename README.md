@@ -29,3 +29,7 @@ After cleaning all the CSV files, they were merged as combined portfolio and did
  
   - Cumulative Daily Returns
  ![](https://raw.githubusercontent.com/bhatt11z/A-Whale-Off-the-Port-folio-/main/Screenshot%202021-06-29%20at%209.40.43%20PM.png)
+
+- Risk Analysis
+  ![](https://raw.githubusercontent.com/bhatt11z/A-Whale-Off-the-Port-folio-/main/Screenshot%202021-06-29%20at%209.49.06%20PM.png)
+  ![](https://raw.githubusercontent.com/bhatt11z/A-Whale-Off-the-Port-folio-/main/Screenshot%202021-06-29%20at%209.51.10%20PM.png)
