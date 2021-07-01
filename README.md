@@ -33,3 +33,7 @@ After cleaning all the CSV files, they were merged as combined portfolio and did
 - Risk Analysis
   ![](https://raw.githubusercontent.com/bhatt11z/A-Whale-Off-the-Port-folio-/main/Screenshot%202021-06-29%20at%209.49.06%20PM.png)
      ![](https://raw.githubusercontent.com/bhatt11z/A-Whale-Off-the-Port-folio-/main/Screenshot%202021-06-29%20at%209.51.10%20PM.png)
+
+- Rolling statistics
+   ![](https://raw.githubusercontent.com/bhatt11z/A-Whale-Off-the-Port-folio-/main/Screenshot%202021-06-30%20at%208.30.24%20PM.png)
+   
