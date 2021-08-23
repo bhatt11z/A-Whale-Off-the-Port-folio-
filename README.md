@@ -1,10 +1,10 @@
 # A Whale Off the Port(folio)
 
-Requirements:
+## Requirements:
 - Jupyter notebook
 - Python libraries: Pandas, Numpy, Datetime, Pathlib, Matplotlib
 
-Overview:
+## Getting Started:
 
 - Data cleaning:
   
@@ -21,6 +21,7 @@ Overview:
     - Removed empty feilds
     - Sorted index
 
+## Analysis
 After cleaning all the CSV files, they were merged as combined portfolio and did performance, risk and rolling statistics analysis.
 
 - Performance analysis
