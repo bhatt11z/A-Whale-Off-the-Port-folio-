@@ -26,9 +26,9 @@ After cleaning all the CSV files, they were merged as combined portfolio and did
 
 - Performance analysis
   - Daily Returns
+    ![](https://raw.githubusercontent.com/bhatt11z/A-Whale-Off-the-Port-folio-/main/Screen%20shots/Screenshot%202021-06-29%20at%209.38.37%20PM.png)
+    
   
-  ![](https://raw.githubusercontent.com/bhatt11z/A-Whale-Off-the-Port-folio-/main/Screenshot%202021-06-29%20at%209.38.37%20PM.png)
- 
   - Cumulative Daily Returns
    
    ![](https://raw.githubusercontent.com/bhatt11z/A-Whale-Off-the-Port-folio-/main/Screenshot%202021-06-29%20at%209.40.43%20PM.png)
